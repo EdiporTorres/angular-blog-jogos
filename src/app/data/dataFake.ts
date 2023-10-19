@@ -1,14 +1,20 @@
 export const dataFake = [
   {
     "id":"1",
-    "title": "NOVO HOMEM DE FERRO EM 3D",
-    "description": "marvel anuncia um novo filme do homem de ferro, confira",
-    "photoCover":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7F51FA9F6CBD9F0C9B1394B1CC0A6A842D07091318674E234CD33CBF7C28CDC3/scale?width=1200&aspectRatio=1.78&format=jpeg"
+    "title": "BALDUR'S GATE 3 GRATIS SOMENTE HOJE",
+    "description": "Epic Games libera inteiramente gratis para os fãs o jogo Baldur's Gate 3",
+    "photoCover":"https://blog.br.playstation.com/tachyon/sites/4/2023/02/babee9c954509a0d34a67e7d125b679096ef9d79-scaled.jpg"
   },
   {
     "id":"2",
-    "title": "Nova Série anunciada no Disney +",
-    "description": "bla blabla",
-    "photoCover":"https://disneyplusbrasil.com.br/wp-content/uploads/2021/07/Series-Marvel-Disney-Plus-1024x576.jpg"
+    "title": "Silksong anunciado para dezembro",
+    "description": "Novo jogo anunciado após anos de espera e fãs acharem que não existiria mais",
+    "photoCover":"https://cdn.akamai.steamstatic.com/steam/apps/1030300/capsule_616x353.jpg?t=1695443850"
+  },
+  {
+    "id":"3",
+    "title": "Novo Jogo do pokemon chengado ao BR",
+    "description": "Novo jogo sera feito em portugues, mas nintendo resolveu fazer em Portugues de portugal",
+    "photoCover":"https://sm.ign.com/ign_br/screenshot/default/6a61afcf-bedb-4ee4-b032-57f95476814f_gmbg.jpg"
   }
 ]
